@@ -1,0 +1,20 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 24px;
+}
+.chart rect.calBurn {
+  fill: maroon;
+}
+.chart rect.calIntake {
+  fill: green;
+}
+
+.chart text.value {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+.chart text.label {
+  font: 10px sans-serif;
+}
