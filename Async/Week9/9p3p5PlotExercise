@@ -1,0 +1,27 @@
+import pandas as pd 
+import matplotlib.pyplot as plt 
+import numpy as np 
+
+df = pd.read_csv("Lekagul Sensor Data.csv") 
+df["Timestamp"] = pd.to_datetime(df["Timestamp"]) 
+
+# Plot without style sheet
+plt.figure(figsize=(15,8)) 
+for car_type in df["car-type"].unique(): 
+  g = df[df["car-type"] == car_type].groupby(pd.DatetimeIndex(df[df["car-type"] == car_type]["Timestamp"]).date) 
+  plt.plot(g.count().index,g.count().Timestamp,label=car_type) 
+plt.legend() 
+plt.savefig("initalgraphic.png")
+
+
+# plot with stylesheet
+
+
+plt.style.use('week9StyleSheet')
+
+plt.figure(figsize=(15,8)) 
+for car_type in df["car-type"].unique(): 
+  g = df[df["car-type"] == car_type].groupby(pd.DatetimeIndex(df[df["car-type"] == car_type]["Timestamp"]).date)
+  plt.plot(g.count().index,g.count().Timestamp,label=car_type)
+plt.legend() 
+plt.savefig("initalgraphic2.png")
