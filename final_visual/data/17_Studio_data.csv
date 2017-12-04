@@ -1,28 +1,28 @@
-,Film,Month,Monthly_Cume_Gross,Monthly_Gross,Studio
-0,Kramer vs. Kramer,1,74963412,12019000,Columbia
-0,Absence of Malice,1,72286812,20176836,Columbia
-0,Neighbors,1,133481028,9920990,Columbia
-0,Kramer vs. Kramer,2,275282618,22778000,Columbia
-0,Absence of Malice,2,93078495,6736557,Columbia
-0,Neighbors,2,59108132,996647,Columbia
-0,Kramer vs. Kramer,3,286846618,13492794,Columbia
-0,Absence of Malice,3,81082504,2564029,Columbia
-0,Kramer vs. Kramer,4,343053412,14800000,Columbia
-0,Kramer vs. Kramer,5,288448289,6682763,Columbia
-0,Happy Birthday To Me,5,10609514,2547306,Columbia
-0,Cheech & Chong's Nice Dreams,6,43725850,46835850,Columbia
-0,Stripes,6,10871288,10871288,Columbia
-0,Stripes,7,184643145,40155920,Columbia
-0,Cheech & Chong's Nice Dreams,7,63500556,1726731,Columbia
-0,When Harry Met Sallyâ¦,7,44683088,26101377,Columbia
-0,Cheech & Chong's Nice Dreams,8,33982504,614949,Columbia
-0,Stripes,8,249488202,17614787,Columbia
-0,When Harry Met Sallyâ¦,8,208095308,34281117,Columbia
-0,Stripes,9,302875424,10187249,Columbia
-0,Only When I Laugh,9,5353340,5250941,Columbia
-0,When Harry Met Sallyâ¦,9,377405895,18718311,Columbia
-0,Close Encounters of the Thi…,9,506714953,3100479,Columbia
-0,Only When I Laugh,10,41515232,9253031,Columbia
-0,When Harry Met Sallyâ¦,10,169472934,4191050,Columbia
-0,Only When I Laugh,11,92482649,5993305,Columbia
-0,Absence of Malice,11,462255,322703,Columbia
+,Film,Month,Monthly_Cume_Gross,Monthly_Gross,Monthly_Gross_Mil,Studio
+0,Kramer vs. Kramer,1,74963412,12019000,12,Columbia
+0,Absence of Malice,1,72286812,20176836,20,Columbia
+0,Neighbors,1,133481028,9920990,9,Columbia
+0,Kramer vs. Kramer,2,275282618,22778000,22,Columbia
+0,Absence of Malice,2,93078495,6736557,6,Columbia
+0,Neighbors,2,59108132,996647,0,Columbia
+0,Kramer vs. Kramer,3,286846618,13492794,13,Columbia
+0,Absence of Malice,3,81082504,2564029,2,Columbia
+0,Kramer vs. Kramer,4,343053412,14800000,14,Columbia
+0,Kramer vs. Kramer,5,288448289,6682763,6,Columbia
+0,Happy Birthday To Me,5,10609514,2547306,2,Columbia
+0,Cheech & Chong's Nice Dreams,6,43725850,46835850,46,Columbia
+0,Stripes,6,10871288,10871288,10,Columbia
+0,Stripes,7,184643145,40155920,40,Columbia
+0,Cheech & Chong's Nice Dreams,7,63500556,1726731,1,Columbia
+0,When Harry Met Sallyâ¦,7,44683088,26101377,26,Columbia
+0,Cheech & Chong's Nice Dreams,8,33982504,614949,0,Columbia
+0,Stripes,8,249488202,17614787,17,Columbia
+0,When Harry Met Sallyâ¦,8,208095308,34281117,34,Columbia
+0,Stripes,9,302875424,10187249,10,Columbia
+0,Only When I Laugh,9,5353340,5250941,5,Columbia
+0,When Harry Met Sallyâ¦,9,377405895,18718311,18,Columbia
+0,Close Encounters of the Thi…,9,506714953,3100479,3,Columbia
+0,Only When I Laugh,10,41515232,9253031,9,Columbia
+0,When Harry Met Sallyâ¦,10,169472934,4191050,4,Columbia
+0,Only When I Laugh,11,92482649,5993305,5,Columbia
+0,Absence of Malice,11,462255,322703,0,Columbia

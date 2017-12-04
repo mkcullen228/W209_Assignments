@@ -1,84 +1,84 @@
-,Film,Month,Monthly_Cume_Gross,Monthly_Gross,Studio
-0,Dance With a Stranger,9,725707,383992,Goldwyn Entertainment
-0,American Buffalo,9,1050984,482451,Goldwyn Entertainment
-0,Big Night,9,1640777,1359414,Goldwyn Entertainment
-0,The King of Masks,9,3601789,73513,Goldwyn Entertainment
-0,Splendor,9,278390,272556,Goldwyn Entertainment
-0,Mambo Italiano,9,6050542,40703,Goldwyn Entertainment
-0,Always,10,172721,75237,Goldwyn Entertainment
-0,Rampo,10,271396,11386,Goldwyn Entertainment
-0,Big Night,10,19994389,5450767,Goldwyn Entertainment
-0,Napolean,10,99950,881,Goldwyn Entertainment
-0,The King of Masks,10,1893677,22594,Goldwyn Entertainment
-0,Splendor,10,85457,9065,Goldwyn Entertainment
-0,Always,11,133166,28808,Goldwyn Entertainment
-0,Once Bitten,11,19840690,8623388,Goldwyn Entertainment
-0,Big Night,11,45932701,3518302,Goldwyn Entertainment
-0,The Hanging Garden,11,576545,141322,Goldwyn Entertainment
-0,Welcome to Woop-Woop,11,26609,26609,Goldwyn Entertainment
-0,The King of Masks,11,998963,5725,Goldwyn Entertainment
-0,El Crimen de Padre,11,5229672,2681944,Goldwyn Entertainment
-0,Once Bitten,12,38128973,1168446,Goldwyn Entertainment
-0,Bring on the Night,12,1649835,32532,Goldwyn Entertainment
-0,To Live,12,1617796,574006,Goldwyn Entertainment
-0,Eat Drink Man Woman,12,20901416,82073,Goldwyn Entertainment
-0,The Madness of King George,12,121975,96130,Goldwyn Entertainment
-0,Big Night,12,43495468,867623,Goldwyn Entertainment
-0,The Hanging Garden,12,363594,46512,Goldwyn Entertainment
-0,The King of Masks,12,1008884,9921,Goldwyn Entertainment
-0,El Crimen de Padre,12,15547526,1708406,Goldwyn Entertainment
-0,Turtle Diary,2,135582,86831,Goldwyn Entertainment
-0,The Mystery of Picasso,2,30639,30639,Goldwyn Entertainment
-0,To Live,2,3529766,331355,Goldwyn Entertainment
-0,The Madness of King George,2,17894879,5304170,Goldwyn Entertainment
-0,Angels and Insects,2,1982101,840115,Goldwyn Entertainment
-0,Big Night,2,11841505,63661,Goldwyn Entertainment
-0,Onegin,2,395918,74680,Goldwyn Entertainment
-0,The King of Masks,2,3289668,30972,Goldwyn Entertainment
-0,El Crimen de Padre,2,21950396,302586,Goldwyn Entertainment
-0,Turtle Diary,8,4053732,62567,Goldwyn Entertainment
-0,Paperback Romance,8,94234,64964,Goldwyn Entertainment
-0,The King of Masks,8,3202722,149010,Goldwyn Entertainment
-0,Desert Blue,8,197257,4133,Goldwyn Entertainment
-0,Mambo Italiano,8,11722405,155133,Goldwyn Entertainment
-0,La Femme Nikita,4,4789033,1378773,Goldwyn Entertainment
-0,You So Crazy,4,3969777,3278358,Goldwyn Entertainment
-0,The Sum of Us,4,985969,165824,Goldwyn Entertainment
-0,The Madness of King George,4,56941242,1525600,Goldwyn Entertainment
-0,Angels and Insects,4,8612540,461728,Goldwyn Entertainment
-0,Kissed,4,479985,264445,Goldwyn Entertainment
-0,El Crimen de Padre,4,17146894,13844,Goldwyn Entertainment
-0,La Femme Nikita,5,12225266,1504834,Goldwyn Entertainment
-0,The Madness of King George,5,59536929,382023,Goldwyn Entertainment
-0,The Perez Family,5,6509928,2552017,Goldwyn Entertainment
-0,Kissed,5,767782,150231,Goldwyn Entertainment
-0,Rough Magic,5,84196,84196,Goldwyn Entertainment
-0,The Hanging Garden,5,2124378,760200,Goldwyn Entertainment
-0,The King of Masks,5,500556,112823,Goldwyn Entertainment
-0,El Crimen de Padre,5,5719000,744,Goldwyn Entertainment
-0,Much Ado About Nothing,6,15516226,2977414,Goldwyn Entertainment
-0,Rampo,6,119951,48804,Goldwyn Entertainment
-0,The Perez Family,6,5252561,92539,Goldwyn Entertainment
-0,The Madness of King George,6,45181791,91911,Goldwyn Entertainment
-0,Wigstock: The Movie,6,723622,362636,Goldwyn Entertainment
-0,Rough Magic,6,135401,51205,Goldwyn Entertainment
-0,The Hanging Garden,6,790653,30453,Goldwyn Entertainment
-0,The King of Masks,6,1732518,223633,Goldwyn Entertainment
-0,Desert Blue,6,186887,74134,Goldwyn Entertainment
-0,Red Dwarf,6,6459,6459,Goldwyn Entertainment
-0,To Live,1,4871398,795334,Goldwyn Entertainment
-0,The Madness of King George,1,2799597,1356274,Goldwyn Entertainment
-0,Angels and Insects,1,67894,67894,Goldwyn Entertainment
-0,Big Night,1,57996757,581738,Goldwyn Entertainment
-0,Onegin,1,135866,23633,Goldwyn Entertainment
-0,The King of Masks,1,1073708,8681,Goldwyn Entertainment
-0,El Crimen de Padre,1,25086878,902863,Goldwyn Entertainment
-0,The Madness of King George,3,54625593,6307871,Goldwyn Entertainment
-0,The Sum of Us,3,776673,302522,Goldwyn Entertainment
-0,Angels and Insects,3,9740305,1624913,Goldwyn Entertainment
-0,Onegin,3,676047,35625,Goldwyn Entertainment
-0,The King of Masks,3,1106935,2316,Goldwyn Entertainment
-0,El Crimen de Padre,3,22725674,108613,Goldwyn Entertainment
-0,Wigstock: The Movie,7,1547430,215702,Goldwyn Entertainment
-0,The King of Masks,7,3040510,195869,Goldwyn Entertainment
-0,Desert Blue,7,441014,20880,Goldwyn Entertainment
+,Film,Month,Monthly_Cume_Gross,Monthly_Gross,Monthly_Gross_Mil,Studio
+0,Dance With a Stranger,9,725707,383992,0,Goldwyn Entertainment
+0,American Buffalo,9,1050984,482451,0,Goldwyn Entertainment
+0,Big Night,9,1640777,1359414,1,Goldwyn Entertainment
+0,The King of Masks,9,3601789,73513,0,Goldwyn Entertainment
+0,Splendor,9,278390,272556,0,Goldwyn Entertainment
+0,Mambo Italiano,9,6050542,40703,0,Goldwyn Entertainment
+0,Always,10,172721,75237,0,Goldwyn Entertainment
+0,Rampo,10,271396,11386,0,Goldwyn Entertainment
+0,Big Night,10,19994389,5450767,5,Goldwyn Entertainment
+0,Napolean,10,99950,881,0,Goldwyn Entertainment
+0,The King of Masks,10,1893677,22594,0,Goldwyn Entertainment
+0,Splendor,10,85457,9065,0,Goldwyn Entertainment
+0,Always,11,133166,28808,0,Goldwyn Entertainment
+0,Once Bitten,11,19840690,8623388,8,Goldwyn Entertainment
+0,Big Night,11,45932701,3518302,3,Goldwyn Entertainment
+0,The Hanging Garden,11,576545,141322,0,Goldwyn Entertainment
+0,Welcome to Woop-Woop,11,26609,26609,0,Goldwyn Entertainment
+0,The King of Masks,11,998963,5725,0,Goldwyn Entertainment
+0,El Crimen de Padre,11,5229672,2681944,2,Goldwyn Entertainment
+0,Once Bitten,12,38128973,1168446,1,Goldwyn Entertainment
+0,Bring on the Night,12,1649835,32532,0,Goldwyn Entertainment
+0,To Live,12,1617796,574006,0,Goldwyn Entertainment
+0,Eat Drink Man Woman,12,20901416,82073,0,Goldwyn Entertainment
+0,The Madness of King George,12,121975,96130,0,Goldwyn Entertainment
+0,Big Night,12,43495468,867623,0,Goldwyn Entertainment
+0,The Hanging Garden,12,363594,46512,0,Goldwyn Entertainment
+0,The King of Masks,12,1008884,9921,0,Goldwyn Entertainment
+0,El Crimen de Padre,12,15547526,1708406,1,Goldwyn Entertainment
+0,Turtle Diary,2,135582,86831,0,Goldwyn Entertainment
+0,The Mystery of Picasso,2,30639,30639,0,Goldwyn Entertainment
+0,To Live,2,3529766,331355,0,Goldwyn Entertainment
+0,The Madness of King George,2,17894879,5304170,5,Goldwyn Entertainment
+0,Angels and Insects,2,1982101,840115,0,Goldwyn Entertainment
+0,Big Night,2,11841505,63661,0,Goldwyn Entertainment
+0,Onegin,2,395918,74680,0,Goldwyn Entertainment
+0,The King of Masks,2,3289668,30972,0,Goldwyn Entertainment
+0,El Crimen de Padre,2,21950396,302586,0,Goldwyn Entertainment
+0,Turtle Diary,8,4053732,62567,0,Goldwyn Entertainment
+0,Paperback Romance,8,94234,64964,0,Goldwyn Entertainment
+0,The King of Masks,8,3202722,149010,0,Goldwyn Entertainment
+0,Desert Blue,8,197257,4133,0,Goldwyn Entertainment
+0,Mambo Italiano,8,11722405,155133,0,Goldwyn Entertainment
+0,La Femme Nikita,4,4789033,1378773,1,Goldwyn Entertainment
+0,You So Crazy,4,3969777,3278358,3,Goldwyn Entertainment
+0,The Sum of Us,4,985969,165824,0,Goldwyn Entertainment
+0,The Madness of King George,4,56941242,1525600,1,Goldwyn Entertainment
+0,Angels and Insects,4,8612540,461728,0,Goldwyn Entertainment
+0,Kissed,4,479985,264445,0,Goldwyn Entertainment
+0,El Crimen de Padre,4,17146894,13844,0,Goldwyn Entertainment
+0,La Femme Nikita,5,12225266,1504834,1,Goldwyn Entertainment
+0,The Madness of King George,5,59536929,382023,0,Goldwyn Entertainment
+0,The Perez Family,5,6509928,2552017,2,Goldwyn Entertainment
+0,Kissed,5,767782,150231,0,Goldwyn Entertainment
+0,Rough Magic,5,84196,84196,0,Goldwyn Entertainment
+0,The Hanging Garden,5,2124378,760200,0,Goldwyn Entertainment
+0,The King of Masks,5,500556,112823,0,Goldwyn Entertainment
+0,El Crimen de Padre,5,5719000,744,0,Goldwyn Entertainment
+0,Much Ado About Nothing,6,15516226,2977414,2,Goldwyn Entertainment
+0,Rampo,6,119951,48804,0,Goldwyn Entertainment
+0,The Perez Family,6,5252561,92539,0,Goldwyn Entertainment
+0,The Madness of King George,6,45181791,91911,0,Goldwyn Entertainment
+0,Wigstock: The Movie,6,723622,362636,0,Goldwyn Entertainment
+0,Rough Magic,6,135401,51205,0,Goldwyn Entertainment
+0,The Hanging Garden,6,790653,30453,0,Goldwyn Entertainment
+0,The King of Masks,6,1732518,223633,0,Goldwyn Entertainment
+0,Desert Blue,6,186887,74134,0,Goldwyn Entertainment
+0,Red Dwarf,6,6459,6459,0,Goldwyn Entertainment
+0,To Live,1,4871398,795334,0,Goldwyn Entertainment
+0,The Madness of King George,1,2799597,1356274,1,Goldwyn Entertainment
+0,Angels and Insects,1,67894,67894,0,Goldwyn Entertainment
+0,Big Night,1,57996757,581738,0,Goldwyn Entertainment
+0,Onegin,1,135866,23633,0,Goldwyn Entertainment
+0,The King of Masks,1,1073708,8681,0,Goldwyn Entertainment
+0,El Crimen de Padre,1,25086878,902863,0,Goldwyn Entertainment
+0,The Madness of King George,3,54625593,6307871,6,Goldwyn Entertainment
+0,The Sum of Us,3,776673,302522,0,Goldwyn Entertainment
+0,Angels and Insects,3,9740305,1624913,1,Goldwyn Entertainment
+0,Onegin,3,676047,35625,0,Goldwyn Entertainment
+0,The King of Masks,3,1106935,2316,0,Goldwyn Entertainment
+0,El Crimen de Padre,3,22725674,108613,0,Goldwyn Entertainment
+0,Wigstock: The Movie,7,1547430,215702,0,Goldwyn Entertainment
+0,The King of Masks,7,3040510,195869,0,Goldwyn Entertainment
+0,Desert Blue,7,441014,20880,0,Goldwyn Entertainment

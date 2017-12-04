@@ -1,29 +1,29 @@
-,Film,Month,Monthly_Cume_Gross,Monthly_Gross,Studio
-0,Choose Me,8,125752,74704,Island/Alive
-0,A Private Function,8,11508490,320343,Island/Alive
-0,Kiss of the Spider Woman,8,5191934,2035925,Island/Alive
-0,The Hit,8,4073529,101061,Island/Alive
-0,Choose Me,9,1246671,267606,Island/Alive
-0,Kiss of the Spider Woman,9,16841204,3428439,Island/Alive
-0,A Private Function,9,7402592,91536,Island/Alive
-0,Choose Me,10,2185285,274690,Island/Alive
-0,Kiss of the Spider Woman,10,30561968,3237933,Island/Alive
-0,Choose Me,11,7507286,1398526,Island/Alive
-0,Kiss of the Spider Woman,11,52727633,2532418,Island/Alive
-0,Subway,11,20746,20746,Island/Alive
-0,Choose Me,12,6950319,327445,Island/Alive
-0,Kiss of the Spider Woman,12,47151972,742400,Island/Alive
-0,A Private Function,3,543916,158334,Island/Alive
-0,The Hit,3,123279,46494,Island/Alive
-0,A Private Function,4,1457315,342893,Island/Alive
-0,The Hit,4,603926,212378,Island/Alive
-0,A Private Function,5,5470934,969474,Island/Alive
-0,The Hit,5,2499563,320187,Island/Alive
-0,The Hit,6,2626544,90794,Island/Alive
-0,A Private Function,6,3576697,182410,Island/Alive
-0,Kiss of the Spider Woman,6,8146,8146,Island/Alive
-0,A Private Function,7,8010970,251835,Island/Alive
-0,The Hit,7,2952250,78496,Island/Alive
-0,Kiss of the Spider Woman,7,155204,124530,Island/Alive
-0,Kiss of the Spider Woman,1,63065102,823997,Island/Alive
-0,Kiss of the Spider Woman,2,55103592,1443360,Island/Alive
+,Film,Month,Monthly_Cume_Gross,Monthly_Gross,Monthly_Gross_Mil,Studio
+0,Choose Me,8,125752,74704,0,Island/Alive
+0,A Private Function,8,11508490,320343,0,Island/Alive
+0,Kiss of the Spider Woman,8,5191934,2035925,2,Island/Alive
+0,The Hit,8,4073529,101061,0,Island/Alive
+0,Choose Me,9,1246671,267606,0,Island/Alive
+0,Kiss of the Spider Woman,9,16841204,3428439,3,Island/Alive
+0,A Private Function,9,7402592,91536,0,Island/Alive
+0,Choose Me,10,2185285,274690,0,Island/Alive
+0,Kiss of the Spider Woman,10,30561968,3237933,3,Island/Alive
+0,Choose Me,11,7507286,1398526,1,Island/Alive
+0,Kiss of the Spider Woman,11,52727633,2532418,2,Island/Alive
+0,Subway,11,20746,20746,0,Island/Alive
+0,Choose Me,12,6950319,327445,0,Island/Alive
+0,Kiss of the Spider Woman,12,47151972,742400,0,Island/Alive
+0,A Private Function,3,543916,158334,0,Island/Alive
+0,The Hit,3,123279,46494,0,Island/Alive
+0,A Private Function,4,1457315,342893,0,Island/Alive
+0,The Hit,4,603926,212378,0,Island/Alive
+0,A Private Function,5,5470934,969474,0,Island/Alive
+0,The Hit,5,2499563,320187,0,Island/Alive
+0,The Hit,6,2626544,90794,0,Island/Alive
+0,A Private Function,6,3576697,182410,0,Island/Alive
+0,Kiss of the Spider Woman,6,8146,8146,0,Island/Alive
+0,A Private Function,7,8010970,251835,0,Island/Alive
+0,The Hit,7,2952250,78496,0,Island/Alive
+0,Kiss of the Spider Woman,7,155204,124530,0,Island/Alive
+0,Kiss of the Spider Woman,1,63065102,823997,0,Island/Alive
+0,Kiss of the Spider Woman,2,55103592,1443360,1,Island/Alive
