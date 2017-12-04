@@ -1,0 +1,21 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 36px;
+}
+
+.chart text.value {
+  font: 12px sans-serif;
+  text-anchor: end;
+ }
+
+.chart text.label {
+  font: 16px sans-serif;
+}
+
+.chart text.totalTitle {
+  font: 24px sans-serif;
+}
+
+.chart text.totalLabel {
+  font: 14px sans-serif;
+}
