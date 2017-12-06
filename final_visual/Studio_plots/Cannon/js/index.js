@@ -32,6 +32,7 @@ var data = [{key: "The Last American Virgin", date: "01/1", value: "0.00"},
 {key: "Fool For Love", date: "01/1", value: "447415.00"},
 {key: "Braddock: Missing in Action…", date: "01/1", value: "2889754.00"},
 {key: "The Delta Force", date: "01/1", value: "0.00"},
+
 {key: "The Last American Virgin", date: "01/2", value: "0.00"},
 {key: "Hercules", date: "01/2", value: "0.00"},
 {key: "Revenge of the Ninja", date: "01/2", value: "0.00"},
@@ -68,6 +69,7 @@ var data = [{key: "The Last American Virgin", date: "01/1", value: "0.00"},
 {key: "Fool For Love", date: "01/2", value: "0.00"},
 {key: "Braddock: Missing in Action…", date: "01/2", value: "0.00"},
 {key: "The Delta Force", date: "01/2", value: "13235247.00"},
+
 {key: "The Last American Virgin", date: "01/3", value: "0.00"},
 {key: "Hercules", date: "01/3", value: "0.00"},
 {key: "Revenge of the Ninja", date: "01/3", value: "0.00"},
@@ -432,36 +434,23 @@ var datearray = [];
 var colorrange = [];
 
 //colorrange = ["#B30000", "#E34A33", "#FC8D59", "#FDBB84", "#FDD49E", "#FEF0D9"];
-colorrange = [
-  "#3182bd",
-  "#31a354",
-  "#c6dbef",
-  "#969696",
-  "#e6550d",
-  "#6baed6",
-  "#bcbddc",
-  "#636363",
-  "#9ecae1",
-  "#fd8d3c",
-  "#bdbdbd",
-  "#756bb1",
-  "#fdae6b",
-  "#8c6d31",
-  "#dadaeb",
-  "#fdd0a2",
-  "#e7ba52",
-  "#d9d9d9",
-  "#74c476",
-  "#9e9ac8",
-  "#bd9e39",
-  "#a1d99b",
-  "#e7cb94",
-  "#843c39",
-  "#c7e9c0",
-  "#ad494a",
-  "#d6616b",
-  "#e7969c"
-];
+colorrange = ["#3182bd", "#31a354", "#c6dbef", "#969696", "#e6550d", "#6baed6", "#bcbddc", "#636363", "#9ecae1", "#fd8d3c", "#bdbdbd", "#756bb1",
+ "#8c6d31", "#dadaeb", "#fdd0a2", "#e7ba52", "#d9d9d9", "#74c476", "#9e9ac8", "#bd9e39", "#a1d99b", "#e7cb94", "#843c39", "#c7e9c0", "#ad494a",
+ "#d6616b", "#e7969c", "#000080", "#000080", "#1E90FF", "#2E8B57", "#8B008B", "#8FBC8F", "#87CEFA", "#8A2BE2", "#8B0000", "#8B008B", "#8B4513",
+ "#8FBC8F", "#A0522D", "#A52A2A", "#A9A9A9", "#ADD8E6", "#ADFF2F", "#AFEEEE", "#000080", "#00008B", "#0000CD", "#0000FF", "#006400", "#008000",
+ "#008080", "#008B8B", "#00BFFF", "#00CED1", "#000080", "#00FF00", "#00FF00", "#00FF7F", "#00FFFF", "#00FFFF", "#191970", "#1E90FF", "#20B2AA",
+  "#228B22", "#2E8B57", "#2F4F4F", "#32CD32", "#3CB371", "#40E0D0", "#4169E1", "#4682B4", "#483D8B", "#48D1CC", "#4B0082", "#556B2F", "#5F9EA0",
+  "#6495ED", "#663399", "#66CDAA", "#696969", "#6A5ACD", "#6B8E23", "#708090", "#778899", "#7B68EE", "#7CFC00", "#7F0000", "#7F007F", "#7FFF00",
+   "#7FFFD4", "#808000", "#808080", "#87CEEB", "#87CEFA", "#8A2BE2", "#8B0000", "#8B008B", "#8B4513", "#8FBC8F", "#90EE90", "#9370DB", "#9400D3",
+    "#98FB98", "#9932CC", "#9ACD32", "#A020F0", "#A0522D", "#A52A2A", "#A9A9A9", "#ADD8E6", "#ADFF2F", "#AFEEEE", "#B03060", "#B0C4DE", "#B0E0E6",
+     "#B22222", "#B8860B", "#BA55D3", "#BC8F8F", "#BDB76B", "#BEBEBE", "#C0C0C0", "#C71585", "#CD5C5C", "#CD853F", "#D2691E", "#D2B48C", "#D3D3D3",
+     "#D8BFD8", "#DA70D6", "#DAA520", "#DB7093", "#DC143C", "#DCDCDC", "#DDA0DD", "#DEB887", "#E0FFFF", "#E6E6FA", "#E9967A", "#EE82EE", "#EEE8AA",
+      "#F08080", "#F0E68C", "#F0F8FF", "#F0FFF0", "#F0FFFF", "#F4A460","#fdae6b",
+    "#F5DEB3", "#F5F5DC", "#F5F5F5", "#F5FFFA", "#F8F8FF", "#FA8072", "#FAEBD7", "#FAF0E6", "#FAFAD2", "#FDF5E6", "#FF0000", "#FF00FF", "#FF00FF",
+    "#FF1493", "#FF4500", "#FF6347", "#FF69B4", "#FF7F50", "#FF8C00", "#FFA07A", "#FFA500", "#FFB6C1", "#FFC0CB", "#FFD700", "#FFDAB9", "#FFDEAD",
+    "#FFE4B5", "#FFE4C4", "#FFE4E1", "#FFEBCD", "#FFEFD5", "#FFF0F5", "#FFF5EE", "#FFF8DC", "#FFFACD", "#FFFAF0", "#FFFAFA", "#FFFF00", "#FFFFE0",
+    "#FFFFF0"];
+
 //strokecolor = colorrange[0];
 strokecolor = "#000000";
 // strokecolor = "#FFFFFF";
