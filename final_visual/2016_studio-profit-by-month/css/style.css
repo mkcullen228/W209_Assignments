@@ -1,6 +1,5 @@
-
-body {
-    font: 10px sans-serif;
+ body {
+    font: 12px sans-serif;
     background-color: lightGray ;
   }
   
@@ -9,22 +8,26 @@ body {
   }
   
   p {
-    font: 12px helvetica;
+    font: 14px helvetica;
   }
-a{
-  font: 16px helvetica;
-  text-align: center;
-}  
+  
+  p.footnote{
+    font: 10px helvetica;
+  }
 
-title {
-  font: 32px helvetica;
-  text-align: center;
-}
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+  }
 
-ul{
-  font: 12px helvetica; 
+  ul{
+  font: 14px helvetica; 
 }
 table, th, td {
+    font: 14px helvetica;
     border: 1px solid black;
     border-collapse: collapse;
 }
@@ -37,17 +40,10 @@ table.film td.film_name{
   width:5000px;
 }
 
-  .axis path,
-  .axis line {
+.axis path,
+.axis line {
     fill: none;
     stroke: #000;
     stroke-width: 1px;
     shape-rendering: crispEdges;
-  }
-
-  .legend {
-    font-size: 12px;
-  }
-  .rect {
-    stroke-width: 2;
   }
