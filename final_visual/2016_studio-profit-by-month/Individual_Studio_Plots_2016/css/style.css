@@ -18,3 +18,8 @@
     stroke-width: 1px;
     shape-rendering: crispEdges;
   }
+
+  .vertline{
+  height: 840px
+  top: 10px
+}

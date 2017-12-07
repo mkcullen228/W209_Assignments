@@ -479,83 +479,7 @@ colorrange = [
 "#A52A2A",
 "#A9A9A9",
 "#ADD8E6",
-"#ADFF2F",
-"#AFEEEE",
-"#B03060",
-"#B0C4DE",
-"#B0E0E6",
-"#B22222",
-"#B8860B",
-"#BA55D3",
-"#BC8F8F",
-"#BDB76B",
-"#BEBEBE",
-"#C0C0C0",
-"#C71585",
-"#CD5C5C",
-"#CD853F",
-"#D2691E",
-"#D2B48C",
-"#D3D3D3",
-"#D8BFD8",
-"#DA70D6",
-"#DAA520",
-"#DB7093",
-"#DC143C",
-"#DCDCDC",
-"#DDA0DD",
-"#DEB887",
-"#E0FFFF",
-"#E6E6FA",
-"#E9967A",
-"#EE82EE",
-"#EEE8AA",
-"#F08080",
-"#F0E68C",
-"#F0F8FF",
-"#F0FFF0",
-"#F0FFFF",
-"#F4A460",
-"#F5DEB3",
-"#F5F5DC",
-"#F5F5F5",
-"#F5FFFA",
-"#F8F8FF",
-"#FA8072",
-"#FAEBD7",
-"#FAF0E6",
-"#FAFAD2",
-"#FDF5E6",
-"#FF0000",
-"#FF00FF",
-"#FF00FF",
-"#FF1493",
-"#FF4500",
-"#FF6347",
-"#FF69B4",
-"#FF7F50",
-"#FF8C00",
-"#FFA07A",
-"#FFA500",
-"#FFB6C1",
-"#FFC0CB",
-"#FFD700",
-"#FFDAB9",
-"#FFDEAD",
-"#FFE4B5",
-"#FFE4C4",
-"#FFE4E1",
-"#FFEBCD",
-"#FFEFD5",
-"#FFF0F5",
-"#FFF5EE",
-"#FFF8DC",
-"#FFFACD",
-"#FFFAF0",
-"#FFFAFA",
-"#FFFF00",
-"#FFFFE0",
-"#FFFFF0"
+"#ADFF2F"
 ];
 // console.log(colorrange);
 //strokecolor = colorrange[0];
@@ -585,14 +509,9 @@ var months_list = [
   "December"
 ];
 
-// var p=d3.scale.category20();
-// var r=p.range();
-// var s=d3.scale.ordinal().range(r); 
-// console.log([p.range(), p.range()]);
-// colorrange = p.range();
-//console.log(colorrange);
-//console.log(s.range());
-
+var tooltip_height_top = "130px"
+var lineHeight = "220px"
+var lineTop = "165px"
 
 var tooltip = d3
   .select("body")
@@ -601,7 +520,7 @@ var tooltip = d3
   .style("position", "absolute")
   .style("z-index", "30")
   .style("visibility", "hidden")
-  .style("top", "20px")
+  .style("top", tooltip_height_top)
   .style("left", "550px");
 
 x = d3.time.scale().range([0, width]);
@@ -812,8 +731,8 @@ var vertical = d3
   .style("position", "absolute")
   .style("z-index", "30")
   .style("width", "3px")
-  .style("height", "380px")
-  .style("top", "10px")
+  .style("height", lineHeight)
+  .style("top", lineTop)
   .style("bottom", "30px")
   .style("left", "0px")
   .style("background", "#fff");

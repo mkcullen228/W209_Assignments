@@ -13,8 +13,13 @@ body {
   }
 a{
   font: 16px helvetica;
-  
+  text-align: center;
 }  
+
+title {
+  font: 32px helvetica;
+  text-align: center;
+}
 
 ul{
   font: 12px helvetica; 
@@ -22,7 +27,14 @@ ul{
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-    text-align: "right"
+}
+table.films td.profit {
+  text-align: right;
+}
+
+table.film td.film_name{
+  text-align: center;
+  width:5000px;
 }
 
   .axis path,
@@ -36,6 +48,6 @@ table, th, td {
   .legend {
     font-size: 12px;
   }
-  rect {
+  .rect {
     stroke-width: 2;
   }
